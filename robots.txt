@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /content/dam/alfaromeo/formpdf
+
+Sitemap: https://www.alfaromeo.it/sitemap.xml
+Sitemap: https://www.alfaromeo.it/mopar/sitemap.xml
